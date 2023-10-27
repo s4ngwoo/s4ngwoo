@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning django and machine learning
 - 💞️ I’m looking to collaborate on machine learning especially at NLP
 - 📫 How to reach me
-  -  s4ngwo0.lee@gmail.com
+  -  s4ngwoo.lee@gmail.com
   -  www.mypilot.co.kr
 
 <!---
