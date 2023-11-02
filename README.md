@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @s4ngwoo
-- 👀 I’m interested in Web Dev and AI
-- 🌱 I’m currently learning django and machine learning
-- 💞️ I’m looking to collaborate on machine learning especially at NLP
+- 👀 I’m interested in Data and AI
+- 🌱 I’m currently working on create datahub
+- 💞️ I’m looking forward to work on data industry
 - 📫 How to reach me
   -  s4ngwoo.lee@gmail.com
   -  www.mypilot.co.kr
