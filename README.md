@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s4ngwoo
 - 👀 I’m interested in Data and AI
-- 🌱 I’m currently working on create datahub
+- 🌱 I’m currently working on creating datahub
 - 💞️ I’m looking forward to work on data industry
 - 📫 How to reach me
   -  s4ngwoo.lee@gmail.com
