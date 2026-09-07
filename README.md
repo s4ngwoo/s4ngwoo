@@ -1,4 +1,6 @@
-# 👋 Sangwoo Lee (s4ngwoo)
+
+# 👋 Lee Sangwoo (s4ngwoo)
+> **[ 🇰🇷 Read in Korean (한국어 버전) ](README.ko.md)**
 
 **A developer connecting AI and business.** Based in South Korea.
 
