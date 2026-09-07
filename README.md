@@ -18,7 +18,6 @@ I build practical AI tools with fast execution and transparent process. My visio
 
 ### [URLComments](https://github.com/s4ngwoo/URLComments)
 Privacy-first Chrome Extension for public, open discussions on any normalized URL.
-*Early stage — building MVP*
 
 ### [youtube-playlist-downloader](https://github.com/s4ngwoo/youtube-playlist-downloader)
 Tauri v2 + Rust + React based lightweight YouTube playlist & m4a audio downloader.
