@@ -23,10 +23,28 @@ Tauri v2, Rust, React 기반의 초경량 유튜브 재생목록 및 m4a 오디�
 
 ## 🛠 기술 스택
 
-- **언어**: Python, JavaScript, SQL, C, Rust
-- **플랫폼**: Linux, macOS (SSH 원격 접속 위주 환경)
-- **인프라**: 홈서버 (GitLab, Kubernetes 운영), Docker, Vercel
-- **도구**: CLI, vi, Obsidian (PARA + Zettelkasten)
+**언어**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+
+**플랫폼 & 인프라**
+<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS"/>
+<img src="https://img.shields.io/badge/GitLab-330F55?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+
+**도구**
+<br>
+<img src="https://img.shields.io/badge/CLI-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white" alt="CLI"/>
+<img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim"/>
+<img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian"/>
 
 ## 📚 학습 및 워크플로우
 
