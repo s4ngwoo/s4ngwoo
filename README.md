@@ -2,9 +2,7 @@
 # 👋 Lee Sangwoo (s4ngwoo)
 > **[ 🇰🇷 Read in Korean (한국어 버전) ](README.ko.md)**
 
-**A developer connecting AI and business.** Based in South Korea.
-
-I build practical AI tools with fast execution and transparent process. My vision is to scale from B2B solutions to B2C and SaaS platforms. Open to collaboration with investors, clients, and partners.
+My vision is to scale from B2B solutions to B2C and SaaS platforms. Open to collaboration with investors, clients, and partners.
 
 ## 💡 Focus Areas
 
