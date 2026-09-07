@@ -25,8 +25,6 @@ Tauri v2 + Rust + React based lightweight YouTube playlist & m4a audio downloade
 
 ## 🛠 Tech Stack
 
-## 🛠 기술 스택
-
 **Languages**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
